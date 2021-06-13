@@ -33,8 +33,9 @@ Dose = 1
 # Replace this with Any MP3 File You Want To Play When Vaccine Is Found.
 AudioFilePath = 'happy_clappy_by_john_bartmann.wav' 
 
-# If Vaccine Does in a Slot are greater than the below number play music. Useful because sometimes hospital just open 1 or 2 doses for their internal employees.
-# In such cases keeping a number higher than 2 will ensure you are aiming for a valid slot that has been opened for public. If you want to aim for situations
+# If Vaccine Does in a Slot are greater than the below number play music. Useful because sometimes hospital 
+# just open 1 or 2 doses for their internal employees. In such cases keeping a number higher than 2 will ensure 
+# you are aiming for a valid slot that has been opened for public. If you want to aim for situations
 # even when a single dose is opened, leave the below number as 0.
 MinimumDoses = 0
 
