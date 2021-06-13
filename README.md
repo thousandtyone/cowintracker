@@ -9,7 +9,7 @@ However scheduling an appointment is the site as of today is difficult since all
 
 Install Regular Python 3 or above.
 
-Install require libraries using PIP: requests, datetime, time and playsound
+Install require libraries using PIP: requests, datetime, time and playsound.
 
 Once the needed libraries are installed, open the script and tweak the variables:
 
