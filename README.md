@@ -3,7 +3,7 @@ Recently the Indian Government launched the Co-Win website to schedule vaccinati
 
 The site is at: https://www.cowin.gov.in/
 
-However scheduling an appointment is the site as of today is difficult since all hospitals are opening slots on random timings and on ad-hoc basis. The script helps continuously poll and monitor the co-win site to see when slots are opening and plays music file of your choice to notify whenever you desired slots are opened up.
+However scheduling an appointment is the site as of today is difficult since all hospitals are opening slots on random timings and on ad-hoc basis. The script helps continuously poll and monitor the co-win site to see when slots are opening and plays music file of your choice to notify whenever your desired slots are opened up.
 
 ## Installation
 
