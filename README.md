@@ -46,4 +46,4 @@ MinimumDoses = 0
 
 Once done, simply run the script using py command and let it run. It will keep polling co-win site on the pre-configured time interval (default is 5 seconds) and will play a music (royalty free wave fie included but you can change this as per your choice) whenever it finds a vaccine slot meeting your requirements. 
 
-We know there are many Telegram bots available but this is just in case you want more control over what you are running and want to run is locally so that you get instant notification.
+We know there are many Telegram bots available but this is just in case you want more control over what you are running and want to run this locally so that you get instant notification.
