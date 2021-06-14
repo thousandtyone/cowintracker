@@ -15,6 +15,9 @@ Once the needed libraries are installed, open the script and tweak the variables
 
 ```
 # Poll Interval In Seconds. Defines how frequently Cowin URL will be polled.
+# Please note that there are guidelines set on how frequently you should poll the website.
+# Be Responsible and follow the prescribed guidelines. 
+# We are not responsible for any violations of guidelines you do by exploiting this feature.
 PollTime = 5
 
 # Find out Your Destrict by Hitting F12 On Chrome in Cowin Site and Monitoring the Network Tab API Call.
